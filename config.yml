@@ -1,5 +1,5 @@
 baseURL: "https://examplesite.com/"
-title: Filip PAV.rs
+title: Filip Pavlovic | PAV.rs
 paginate: 5
 theme: PaperMod
 
@@ -18,7 +18,7 @@ minify:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Pav.rs
-    description: "Filip's Personal Website"
+    description: "sysadmin | salesman | cat lover | robot | project manager | IT engineer"
     keywords: [Portfolio]
     author: Filip Pavlovic
     # author: ["Me", "You"] # multiple authors
@@ -59,7 +59,7 @@ params:
         enabled: true # needs to be explicitly set
         title: Hi, I'm Filip
         subtitle: "Filip's Personal Website"
-        imageUrl: "/profile.jpg"
+        imageUrl: "themes/PaperMod/images/profile.png"
         imageWidth: 120
         imageHeight: 120
         imageTitle: Profile Picture
