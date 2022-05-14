@@ -17,21 +17,21 @@ minify:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    title: ExampleSite
-    description: "ExampleSite description"
-    keywords: [Blog, Portfolio, PaperMod]
-    author: Me
+    title: Pav.rs
+    description: "Filip's Personal Website"
+    keywords: [Portfolio]
+    author: Filip Pavlovic
     # author: ["Me", "You"] # multiple authors
     images: ["<link or path of image for opengraph, twitter-cards>"]
     DateFormat: "January 2, 2006"
-    defaultTheme: auto # dark, light
+    defaultTheme: dark # dark, light
     disableThemeToggle: false
 
-    ShowReadingTime: true
+    ShowReadingTime: false
     ShowShareButtons: true
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
-    ShowCodeCopyButtons: false
+    ShowCodeCopyButtons: true
     disableSpecial1stPost: false
     disableScrollToTop: false
     comments: false
@@ -56,9 +56,9 @@ params:
 
     # profile-mode
     profileMode:
-        enabled: false # needs to be explicitly set
-        title: ExampleSite
-        subtitle: "This is subtitle"
+        enabled: true # needs to be explicitly set
+        title: Filip Pavlovic | PAV.rs
+        subtitle: "Filip's Personal Website"
         imageUrl: "<img location>"
         imageWidth: 120
         imageHeight: 120
@@ -113,15 +113,15 @@ params:
 menu:
     main:
         - identifier: categories
-          name: categories
+          name: Resume
           url: /categories/
           weight: 10
         - identifier: tags
-          name: tags
+          name: Contact
           url: /tags/
           weight: 20
         - identifier: example
-          name: example.org
+          name: Blog
           url: https://example.org
           weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
