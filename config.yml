@@ -3,3 +3,23 @@ languageCode: en-us
 title: PAV.rs
 theme: "PaperMod"
 
+params:
+    profileMode:
+        enabled: true
+        title: "Filip Pavlovic | PAV.rs" # optional default will be site title
+        subtitle: "Personal Website"
+        imageUrl: "<image link>" # optional
+        imageTitle: "Profile Picture" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+        buttons:
+            - name: Resume
+            url: "/archive"
+            - name: Github
+            url: "https://github.com/"
+
+    socialIcons: # optional
+        - name: "<platform>"
+            url: "<link>"
+        - name: "<platform 2>"
+            url: "<link2>"
