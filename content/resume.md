@@ -4,7 +4,7 @@ title: "Filip Pavlovic - Resume"
 # weight: 1
 aliases: ["/resume"]
 tags: ["Resume", "CV"]
-author: "#"
+author: "Filip Pavlovic"
 # author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
