@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is repository for my personal website PAV.rs that I'm going to use as my resume/portfolio.
+This is repository for my personal website [PAV.rs](https://pav.rs/) that I'm going to use as my resume/portfolio.
 
 The main goal is to look as simple and readable as possible before anything else.
 
