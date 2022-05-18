@@ -39,3 +39,5 @@ editPost:
 ## This page is under construction.
 
 ![](https://i.imgur.com/9rqeTvq.gif)
+
+<img src="https://i.imgur.com/9rqeTvq.gif" width="400" height="363.96" />
