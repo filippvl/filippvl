@@ -31,6 +31,10 @@ UseHugoToc: false
     # caption: "<text>" # display caption under cover
     # relative: false # when using page bundles set this to true
     # hidden: true # only hide on current single page
+editPost:
+        URL: "https://github.com/filippvl"
+        Text: "Duck" # edit text
+        appendFilePath: true # to append file path to Edit link
 ---
     
 ## This a test before posting actual resume
