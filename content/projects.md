@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "My Projects"
 # date: 2020-09-15T11:30:03+00:00
 # weight: 1
 aliases: ["/projects"]
@@ -36,8 +36,6 @@ editPost:
         appendFilePath: false # to append file path to Edit link
 ---
     
-## This page is under construction.
+### This page is under construction :construction_worker:
 
 ![](https://i.imgur.com/9rqeTvq.gif)
-
-<img src="https://i.imgur.com/9rqeTvq.gif" width="400" height="364" />
