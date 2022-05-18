@@ -83,6 +83,8 @@ params:
           url: "https://github.com/filippvl"
         - name: email
           url: "mailto:filip@pav.rs"
+        - name: telegram
+          url: "https://t.me/filippvl"
 
     analytics:
         google:
