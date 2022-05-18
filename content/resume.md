@@ -4,7 +4,7 @@ title: "Filip Pavlovic - Resume"
 # weight: 1
 aliases: ["/resume"]
 tags: ["Resume", "CV"]
-author: "by Filip Pavlovic"
+author: ""
 editPost: false
 # author: ["Me", "You"] # multiple authors
 showToc: false
@@ -32,9 +32,9 @@ UseHugoToc: false
     # relative: false # when using page bundles set this to true
     # hidden: true # only hide on current single page
 editPost:
-        URL: "https://github.com/filippvl"
-        Text: "Duck" # edit text
-        appendFilePath: true # to append file path to Edit link
+        URL: ""
+        Text: "" # edit text
+        appendFilePath: false # to append file path to Edit link
 ---
     
 ## This a test before posting actual resume
