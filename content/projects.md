@@ -38,4 +38,4 @@ editPost:
     
 ## This page is under construction.
 
-![Alt Text](https://i.imgur.com/9rqeTvq.gifv)
+![](https://i.imgur.com/9rqeTvq.gif)
