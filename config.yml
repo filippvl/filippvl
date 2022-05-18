@@ -59,7 +59,7 @@ params:
         enabled: true # needs to be explicitly set
         title: Hi, I'm Filip
         subtitle: "sysadmin - cat lover - robot - project manager - IT engineer"
-        imageUrl: "https://github.com/filippvl/filippvl/blob/main/pictures/profile%20picture%201.png?raw=true"
+        imageUrl: "/profilepic.png"
         imageWidth: 200
         imageHeight: 200
         imageTitle: Profile Picture
