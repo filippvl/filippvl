@@ -35,6 +35,7 @@ params:
     disableSpecial1stPost: false
     disableScrollToTop: false
     comments: false
+    enableEmoji: true
     hidemeta: false
     hideSummary: false
     showtoc: false
