@@ -4,7 +4,7 @@ title: "Filip Pavlovic - Resume"
 # weight: 1
 aliases: ["/resume"]
 tags: ["Resume", "CV"]
-author: ""
+author: "#"
 editPost: false
 # author: ["Me", "You"] # multiple authors
 showToc: false
@@ -32,7 +32,7 @@ UseHugoToc: false
     # relative: false # when using page bundles set this to true
     # hidden: true # only hide on current single page
 editPost:
-        URL: ""
+        URL: "#"
         Text: "" # edit text
         appendFilePath: false # to append file path to Edit link
 ---
