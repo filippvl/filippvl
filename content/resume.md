@@ -5,6 +5,7 @@ title: "Filip Pavlovic - Resume"
 # aliases: ["/resume"]
 tags: ["Resume", "CV"]
 # author: "Filip Pavlovic"
+editPost.URL: false
 # author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
