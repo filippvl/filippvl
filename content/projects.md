@@ -40,4 +40,4 @@ editPost:
 
 ![](https://i.imgur.com/9rqeTvq.gif)
 
-<img src="https://i.imgur.com/9rqeTvq.gif" width="400" height="363.96" />
+<img src="https://i.imgur.com/9rqeTvq.gif" width="400" height="364" />
