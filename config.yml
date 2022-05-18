@@ -18,7 +18,7 @@ minify:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: Pav.rs
-    description: "sysadmin - cat lover - robot - project manager - IT engineer"
+    description: "Filip's Personal Online Web Presence"
     keywords: [Portfolio]
     author: Filip Pavlovic
     # author: ["Me", "You"] # multiple authors
@@ -62,7 +62,7 @@ params:
         imageUrl: "https://github.com/filippvl/filippvl/blob/main/pictures/profile%20picture%201.png?raw=true"
         imageWidth: 200
         imageHeight: 200
-        imageTitle: Bella
+        imageTitle: Profile Picture
         buttons:
             - name: Download Resume
               url: resume
@@ -118,9 +118,9 @@ menu:
           name: Resume
           url: /resume/
           weight: 10
-        - identifier: contact
-          name: Contact
-          url: /contact/
+        - identifier: search
+          name: Search
+          url: /search/
           weight: 20
         - identifier: email
           name: filip@pav.rs
