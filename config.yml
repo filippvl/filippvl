@@ -79,12 +79,12 @@ params:
           url: "https://instagram.com/filip.pvl"
         - name: facebook
           url: "https://facebook.com/filippvl"
+        - name: telegram
+          url: "https://t.me/filippvl"
         - name: github
           url: "https://github.com/filippvl"
         - name: email
           url: "mailto:filip@pav.rs"
-        - name: telegram
-          url: "https://t.me/filippvl"
 
     analytics:
         google:
@@ -124,9 +124,9 @@ menu:
           name: Resume
           url: /resume/
           weight: 20
-        - identifier: search
-          name: Search
-          url: /search/
+        - identifier: projects
+          name: Web Projects
+          url: /projects/
           weight: 30
         - identifier: email
           name: filip@pav.rs
