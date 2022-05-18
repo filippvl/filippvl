@@ -5,12 +5,11 @@ title: "Filip Pavlovic - Resume"
 aliases: ["/resume"]
 tags: ["Resume", "CV"]
 author: "#"
-editPost: false
 # author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
 draft: false
-hidemeta: false
+hidemeta: true
 comments: false
 # description: "Filip's Online Curiculum Vitae"
 canonicalURL: "https://pav.rs/resume"
