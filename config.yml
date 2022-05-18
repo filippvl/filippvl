@@ -125,7 +125,7 @@ menu:
           url: /resume/
           weight: 20
         - identifier: projects
-          name: Web Projects
+          name: Projects
           url: /projects/
           weight: 30
         - identifier: email
